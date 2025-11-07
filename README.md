@@ -49,7 +49,7 @@ I'm a developer passionate about pushing the boundaries of decentralized technol
   
 <img src="https://github-readme-stats.vercel.app/api?username=Ahsaniat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahsaniat&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsaniat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 
