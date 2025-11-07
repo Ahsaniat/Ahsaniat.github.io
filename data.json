@@ -1,0 +1,80 @@
+{
+  "name": "Ahsaniat",
+  "tagline": "Building distributed systems. Designing event architectures.",
+  "bio": "I work at the intersection of decentralized protocols and computational theory. Currently exploring consensus mechanisms and brain-inspired computing models.",
+  
+  "interests": [
+    "ICP Blockchain",
+    "DAO Structures",
+    "Decentralized Backend",
+    "Neuromorphic Computing",
+    "Event-Driven Architecture"
+  ],
+  
+  "languages": [
+    { "name": "TypeScript", "color": "#3178C6", "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" },
+    { "name": "Python", "color": "#3776AB", "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" },
+    { "name": "C++", "color": "#00599C", "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" },
+    { "name": "C", "color": "#A8B9CC", "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" },
+    { "name": "Motoko", "color": "#00D4FF", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Internet_Computer_logo.svg/1200px-Internet_Computer_logo.svg.png" },
+    { "name": "JavaScript", "color": "#F7DF1E", "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" },
+    { "name": "Kotlin", "color": "#7F52FF", "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" }
+  ],
+  
+  "stack": {
+    "frontend": [
+      { "name": "React", "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" },
+      { "name": "React Native", "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" },
+      { "name": "TailwindCSS", "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" },
+      { "name": "NativeWind", "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" }
+    ],
+    "backend": [
+      { "name": "PostgreSQL", "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" },
+      { "name": "Redis", "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" },
+      { "name": "Apache Kafka", "logo": "https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg" },
+      { "name": "Apache Flink", "logo": "https://upload.wikimedia.org/wikipedia/commons/4/40/Apache_Flink_logo.svg" }
+    ],
+    "infrastructure": [
+      { "name": "Docker", "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" },
+      { "name": "Azure", "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" },
+      { "name": "CI/CD Pipelines", "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" },
+      { "name": "GitHub Actions", "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" }
+    ],
+    "tools": [
+      { "name": "Langchain", "logo": "https://upload.wikimedia.org/wikipedia/commons/9/93/LangChain_Logo.svg" },
+      { "name": "n8n", "logo": "https://seeklogo.com/images/N/n8n-io-logo-5F4174ED4C-seeklogo.com.png" },
+      { "name": "Postman", "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" },
+      { "name": "BurpSuite", "logo": "https://www.svgrepo.com/show/354835/burpsuite.svg" }
+    ]
+  },
+  
+  "specialization": [
+    "System Design",
+    "Event-Driven Architecture",
+    "Distributed Systems",
+    "Consensus Protocols"
+  ],
+  
+  "projects": [
+    { "name": "Hospital Management System", "link": "" },
+    { "name": "Autonomous Agents Framework", "link": "" },
+    { "name": "Personal Health App", "link": "" }
+  ],
+  
+  "research": [
+    { "name": "Spiking Neural Network", "link": "" },
+    { "name": "Man Machine Interface", "link": "" },
+    { "name": "Instrumentalization", "link": "" }
+  ],
+  
+  "contact": {
+    "email": "contact@ahsaniat.dev",
+    "github": "Ahsaniat",
+    "twitter": "",
+    "linkedin": ""
+  },
+  
+  "social": {
+    "github": "Ahsaniat"
+  }
+}
