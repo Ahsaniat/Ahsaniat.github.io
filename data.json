@@ -57,23 +57,23 @@
     "System Design",
     "Event-Driven Architecture",
     "Distributed Systems",
-    "Consensus Protocols"
+    "Self Sovereign Identity"
   ],
   
   "projects": [
     { "name": "Hospital Management System", "link": "" },
     { "name": "Autonomous Agents Framework", "link": "" },
-    { "name": "Personal Health App", "link": "" }
+    { "name": "Personal Health App", "link": "https://github.com/Ahsaniat/Prohori" }
   ],
   
   "research": [
     { "name": "Spiking Neural Network", "link": "" },
     { "name": "Man Machine Interface", "link": "" },
-    { "name": "Instrumentalization", "link": "" }
+    { "name": "Self Sovereign Identity", "link": "" }
   ],
   
   "contact": {
-    "email": "anikahsan1225@protonmail.com",
+    "email": "anik@anik.ninja,
     "github": "Ahsaniat",
     "twitter": "",
     "linkedin": ""
